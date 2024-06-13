@@ -1,3 +1,3 @@
 # Valley Christian Software Development Club
 
-Hi!
+Common configuration files for the vcsdclub organization
