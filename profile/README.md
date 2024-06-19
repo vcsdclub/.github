@@ -1,6 +1,13 @@
-## Welcome to the VCHS Software Development Club
+## 👋 Welcome to the VCHS Software Development Club
 
-here we teach you how to write and develop good, maintainable, code.
+Here we teach you how to write and develop good, maintainable, code.
+
+## Links
+
+- [Instagram](https://www.instagram.com/vcsdclub?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+- [Discord server](https://discord.gg/hayb3xUZRD)
+- [Mailing list](https://forms.gle/VWdvRrLedm2eqK9t8)
+- and of course, our website: https://vcsdclub.org
 
 ## Vision
 
