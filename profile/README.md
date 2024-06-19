@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to the VCHS Software Development Club
+
+here we teach you how to write and develop good, maintainable, code.
+
+## Vision
+
+I want this club
+
+1. To **empower** students to create great things (by writing good code!)
+2. To **impact** others with what we do (in a positive way) such as reaching out to the local community
+3. To be **sustainable** (because I don't want this club to die right after I graduate)
 
 <!--
 
