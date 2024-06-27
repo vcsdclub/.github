@@ -1,6 +1,6 @@
 ## 👋 Welcome to the VCHS Software Development Club
 
-Here we teach you how to write and develop good, maintainable, code.
+Join us and learn how to build real software and what it takes to be an engineer
 
 ## Links
 
