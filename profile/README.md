@@ -1,6 +1,8 @@
-## 👋 Welcome to the VCHS Software Development Club
+# 👋 Welcome to the VCHS Software Development Club
 
-Join us and learn how to build real software and what it takes to be an engineer
+Join us and learn how to build real software and what it takes to be an engineer.
+
+## 📧 Email us at [vchs.software@gmail.com](mailto:vchs.software@gmail.com)
 
 ## Links
 
