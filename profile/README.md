@@ -6,7 +6,7 @@ Join us and learn how to build real software and what it takes to be an engineer
 
 ## Links
 
-- [Instagram](https://www.instagram.com/vcsdclub?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+- [Instagram](https://www.instagram.com/vchs_software) @vchs_software
 - [Discord server](https://discord.gg/hayb3xUZRD)
 - [Mailing list](https://forms.gle/VWdvRrLedm2eqK9t8)
 - and of course, our website: https://vcsdclub.org
